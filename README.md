@@ -1,4 +1,4 @@
 # crud-php-materialize
-Simple CRUD PHP + Materialize 
+CRUD simples com PHP Procedural + Materialize
 
-Simple CRUD with procedural PHP + Materialize. The database file is included.
+O arquivo do banco de dados está incluído, basta fazer o download e executar no seu servidor para criar o banco.
